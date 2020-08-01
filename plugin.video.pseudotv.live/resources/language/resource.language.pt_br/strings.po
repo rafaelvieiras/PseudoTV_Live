@@ -1,0 +1,434 @@
+# Kodi Media Center language file
+# Addon Name: "PseudoTV Live"
+# Addon id: plugin.video.pseudotv.live
+# Addon Provider: Lunatixz
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.pseudotv.live\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2020-07-31 21:05-0300\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+
+msgctxt "#30000"
+msgid "Enable Debugging [Log errors]"
+msgstr "Ativar depuração [Erros de registro]"
+
+msgctxt "#30001"
+msgid "Something went wrong, Try again..."
+msgstr "Algo deu errado, tente de novo..."
+
+msgctxt "#30002"
+msgid "TV Networks"
+msgstr "Rede de TV"
+
+msgctxt "#30003"
+msgid "TV Shows"
+msgstr "Séries"
+
+msgctxt "#30004"
+msgid "TV Genres"
+msgstr "Gêneros de TV"
+
+msgctxt "#30005"
+msgid "Movie Genres"
+msgstr "Gêneros de filme"
+
+msgctxt "#30006"
+msgid "Mixed Genres"
+msgstr "Gênero Misto"
+
+msgctxt "#30007"
+msgid "Movie Studios"
+msgstr "Estúdio de filme"
+
+msgctxt "#30008"
+msgid "Utilities"
+msgstr "Utilidades"
+
+msgctxt "#30009"
+msgid "Channels"
+msgstr "Canais"
+
+msgctxt "#30010"
+msgid "Rebuild M3U/XMLTV"
+msgstr "Refazer M3U/XMLTV"
+
+msgctxt "#30011"
+msgid "Delete [M3U/XMLTV/Genre] Files"
+msgstr "Deletar Arquivos [M3U/XMLTV/Genre]"
+
+msgctxt "#30012"
+msgid "Reconfigure %s for use with %s"
+msgstr "Redefinir %s a cada %s dias"
+
+msgctxt "#30013"
+msgid "Open Settings"
+msgstr "Abrir Configuração"
+
+msgctxt "#30014"
+msgid "View Channels"
+msgstr "Ver Canais"
+
+msgctxt "#30015"
+msgid "Clear Channels"
+msgstr "Limpar Canais"
+
+msgctxt "#30016"
+msgid "%s file deleted"
+msgstr "%s arquivos deletados"
+
+msgctxt "#30017"
+msgid "%s complete"
+msgstr "%s completo"
+
+msgctxt "#30018"
+msgid "Channels"
+msgstr "Canais"
+
+msgctxt "#30019"
+msgid "Enable Automatic PVR Grouping"
+msgstr "Habilitar Agrupamento Automático no PVR"
+
+msgctxt "#30020"
+msgid "Advanced"
+msgstr "Avançado"
+
+msgctxt "#30021"
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgctxt "#30022"
+msgid "Pre-defined Channels"
+msgstr "Canais Pré-definidos"
+
+msgctxt "#30023"
+msgid "Recommended Channels"
+msgstr "Canais Recomendados"
+
+msgctxt "#30024"
+msgid "User-Defined Channels"
+msgstr "Canais Definidos pelo Usuário"
+
+msgctxt "#30025"
+msgid "Options"
+msgstr "Opições"
+
+msgctxt "#30026"
+msgid "Recommended"
+msgstr "Recomendado"
+
+msgctxt "#30027"
+msgid "Channel Manager"
+msgstr "Gerenciar Canal"
+
+msgctxt "#30028"
+msgid "Change M3U/XMLTV/LOGO Location"
+msgstr "Alterar Localização de M3U/XMLTV/LOGO"
+
+msgctxt "#30029"
+msgid "%s is busy, try again later..."
+msgstr "%s está ocupado, tente novamente mais tarde..."
+
+msgctxt "#30030"
+msgid "Insert Fillers (Bumpers/Commercials/Trailers/Ratings)"
+msgstr "Inserir preenchimentos (Bumpers/Comerciais/Trailers/Classificações)"
+
+msgctxt "#30031"
+msgid "Unable to locate channel, try clearing PVR cache."
+msgstr "Incapaz de localizar o canal, tente limpar o cache do PVR."
+
+msgctxt "#30032"
+msgid "Master Instance"
+msgstr "Instância principal"
+
+msgctxt "#30033"
+msgid "Imports"
+msgstr "Importações"
+
+msgctxt "#30034"
+msgid "M3U file"
+msgstr "Arquivo M3U"
+
+msgctxt "#30035"
+msgid "XMLTV file"
+msgstr "Arquivo XMLTv"
+
+msgctxt "#30036"
+msgid "Enable Import"
+msgstr "Ativar importação"
+
+msgctxt "#30037"
+msgid "Clear Import"
+msgstr "Limpar importação"
+
+msgctxt "#30038"
+msgid "Pagination Size [Lower == Better Performance]"
+msgstr "Tamanho da paginação [menos = melhor desempenho]"
+
+msgctxt "#30039"
+msgid "Max Guidedata (Days)"
+msgstr "Máximo do Guia de Programação (dias)"
+
+msgctxt "#30040"
+msgid "Playback Seek Tolerance (Seconds)"
+msgstr "Tolerância de busca de reprodução (segundos)"
+
+msgctxt "#30041"
+msgid "Parse for Accurate Duration Meta"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Save Accurate Duration to Kodi's Library"
+msgstr "Salvar progresso de visualização na biblioteca do Kodi"
+
+msgctxt "#30043"
+msgid "Only use Accurate Duration Meta."
+msgstr ""
+
+msgctxt "#30044"
+msgid "Prefer Color Channel Logos"
+msgstr "Preferir Cor dos logotipos dos canais"
+
+msgctxt "#30045"
+msgid "Playback Method"
+msgstr "Método de Reprodução"
+
+msgctxt "#30046"
+msgid "Open Settings (IPTV Simple)"
+msgstr "Abrir Configurações (IPTV simples)"
+
+msgctxt "#30047"
+msgid "Last Check Offset (Hours)"
+msgstr "Intervalo entre ultima verificação (Horas)"
+
+msgctxt "#30048"
+msgid "Tweaks"
+msgstr "Ajustes"
+
+msgctxt "#30049"
+msgid "%s not found, Please Install"
+msgstr "%s não encontrado, por favor instale"
+
+msgctxt "#30050"
+msgid "Building"
+msgstr "Construindo"
+
+msgctxt "#30051"
+msgid "Updating"
+msgstr "Atualizando"
+
+msgctxt "#30052"
+msgid "Initializing..."
+msgstr "Inicializando..."
+
+msgctxt "#30053"
+msgid "Complete"
+msgstr "Completo"
+
+msgctxt "#30054"
+msgid "Enable Overlay"
+msgstr "Ativar Sobreposição"
+
+msgctxt "#30055"
+msgid "Globals"
+msgstr "Globais"
+
+msgctxt "#30056"
+msgid "No Channels Found, Please Configure."
+msgstr "Nenhum canal encontrado, por favor, configure."
+
+msgctxt "#30057"
+msgid "Delete [M3U/XMLTV/Genre] Files?"
+msgstr "Excluir arquivos[M3U/XMLTV/Gênero]?"
+
+msgctxt "#30058"
+msgid "Something went wrong, Lets try again..."
+msgstr "Algo deu errado, vamos tentar novamente ..."
+
+msgctxt "#30059"
+msgid "Something went wrong, Lets try to fix!"
+msgstr "Algo deu errado, vamos tentar consertar!"
+
+msgctxt "#30060"
+msgid "Play from here"
+msgstr "Reproduzir daqui"
+
+msgctxt "#30061"
+msgid "Play onDemand"
+msgstr "Reproduzir onDemand"
+
+msgctxt "#30062"
+msgid "Start Over"
+msgstr "Recomeçar"
+
+msgctxt "#30063"
+msgid "Update"
+msgstr "Atualizar"
+
+msgctxt "#30064"
+msgid "Build"
+msgstr "Construir"
+
+msgctxt "#30065"
+msgid "Force %s to reload"
+msgstr "Forçar %s a recarregar"
+
+msgctxt "#30066"
+msgid "Resource Packs"
+msgstr "Pacotes de recursos"
+
+msgctxt "#30067"
+msgid "Logo Pack"
+msgstr "Pacote de logotipo"
+
+msgctxt "#30068"
+msgid "Bumpers Pack"
+msgstr "Pacote de Bumpers"
+
+msgctxt "#30069"
+msgid "Ratings Pack"
+msgstr "Pacote de classificações"
+
+msgctxt "#30070"
+msgid "Commercials Pack"
+msgstr "Pacote de Comerciais"
+
+msgctxt "#30071"
+msgid "Trailers Pack"
+msgstr "Pacote de Trailers"
+
+msgctxt "#30072"
+msgid "Channel Manager"
+msgstr "Gerenciamento de canal"
+
+msgctxt "#30073"
+msgid "Save Channel Changes?"
+msgstr "Salvar alterações do canal?"
+
+msgctxt "#30074"
+msgid "Play from here"
+msgstr "Reproduzir daqui"
+
+msgctxt "#30075"
+msgid "Custom Channel Groups"
+msgstr "Grupos de canais personalizados"
+
+msgctxt "#30076"
+msgid ""
+"Enter Custom Groups\n"
+"Separate by '|' ex. Action|Comedy"
+msgstr ""
+"Inserir grupos personalizados\n"
+"Separe por '|' ex. Ação|Comédia"
+
+msgctxt "#30077"
+msgid "Clear Pre-defined Channels"
+msgstr "Limpar canais predefinidos"
+
+msgctxt "#30078"
+msgid "Recently Added"
+msgstr "Adicionado recentemente"
+
+msgctxt "#30079"
+msgid "PVR Recordings"
+msgstr "Gravações PVR"
+
+msgctxt "#30080"
+msgid "Mixed Other"
+msgstr "Outros misto"
+
+msgctxt "#30081"
+msgid "View Friendly User-Log"
+msgstr "Exibir Log de usuário amigável"
+
+msgctxt "#30082"
+msgid "Select Custom Channel Groups"
+msgstr "Selecione grupos de canais personalizados"
+
+msgctxt "#30083"
+msgid "Select Content Path"
+msgstr "Selecionar caminho do conteúdo"
+
+msgctxt "#30084"
+msgid "Enter Channel Name"
+msgstr "Digite o nome do canal"
+
+msgctxt "#30085"
+msgid "Node Editor"
+msgstr "Editor de nós"
+
+msgctxt "#30086"
+msgid "Playlist Editor"
+msgstr "Editor de lista de reprodução"
+
+msgctxt "#30087"
+msgid "Enter Name"
+msgstr "Insira o nome"
+
+msgctxt "#30088"
+msgid "Browse Path"
+msgstr "Caminho de Navegação"
+
+msgctxt "#30089"
+msgid "Select Groups"
+msgstr "Selecionar grupos"
+
+msgctxt "#30090"
+msgid "Customize Rules"
+msgstr "Personalizar regras"
+
+msgctxt "#30091"
+msgid "Save Changes?"
+msgstr "Salvar alterações?"
+
+msgctxt "#30092"
+msgid "Clear Settings?"
+msgstr "Limpar configurações?"
+
+msgctxt "#30093"
+msgid "Clear User-Defined Channels"
+msgstr "Limpar canais definidos pelo usuário"
+
+msgctxt "#30094"
+msgid "Include Specials/Extras"
+msgstr "Include Specials/Extras"
+
+msgctxt "#30095"
+msgid "Include STRM's"
+msgstr "Incluir STRM"
+
+msgctxt "#30096"
+msgid "Delete User-Defined Channels?"
+msgstr "Excluir canais definidos pelo usuário?"
+
+msgctxt "#30097"
+msgid "Music Genres"
+msgstr "Gêneros musicais"
+
+msgctxt "#30098"
+msgid "Listen to %s Radio..."
+msgstr "Esutando a Rádio %s ..."
+
+msgctxt "#30099"
+msgid "Client Mode"
+msgstr "Modo Cliente"
+
+msgctxt "#30100"
+msgid "Running in Client Mode"
+msgstr "Executando no modo cliente"
+
+msgctxt "#30101"
+msgid "Starting Service..."
+msgstr "Iniciando o serviço..."
+
+msgctxt "#30102"
+msgid "PlayList"
+msgstr ""

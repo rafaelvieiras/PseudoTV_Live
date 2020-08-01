@@ -38,7 +38,7 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Movie Genres"
-msgstr "
+msgstr ""
 
 msgctxt "#30006"
 msgid "Mixed Genres"
@@ -422,4 +422,8 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Starting Service..."
+msgstr ""
+
+msgctxt "#30102"
+msgid "PlayList"
 msgstr ""
